@@ -1,0 +1,6 @@
+pt-br:
+Repositorio criado para auxiliar nos estudos do "Santander Bootcamp Fullstack Developer".
+
+en-us:
+Repository created to assist in the studies of the "Santander Bootcamp Fullstack Developer".
+
